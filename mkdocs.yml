@@ -8,7 +8,7 @@ theme:
   logo: https://www.hadaria.fr/_next/image?url=%2Flogo.webp&w=96&q=75
   favicon: https://www.hadaria.fr/_next/image?url=%2Flogo.webp&w=32&q=75
   palette:
-    scheme: slate
+    scheme: default
     primary: custom
     accent: deep purple
   font:
@@ -19,6 +19,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.footer
+    - header.autohide
     - search.highlight
     - search.suggest
     - content.code.copy
@@ -29,11 +30,15 @@ extra_css:
 
 nav:
   - Accueil: index.md
+  - Boutique: https://www.hadaria.fr/boutique
+  - Voter: https://www.hadaria.fr/vote
+  - Discord: https://discord.gg/hadaria
   - Règlements:
     - Règlement général: reglement-general.md
     - Règlement Évents PvP: reglement-events-pvp.md
     - Règlement Farm: reglement-farm.md
     - Règlement Pillage: reglement-pillage.md
+  - 🎮 Jouer: https://www.hadaria.fr/#rejoindre
 
 markdown_extensions:
   - admonition
@@ -54,3 +59,12 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/hadaria
       name: Discord Hadaria
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/Hadaria_FR
+      name: Twitter / X
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCOTxbQeaBbNpDNUKh4KtJsw
+      name: YouTube
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@hadaria_fr
+      name: TikTok
