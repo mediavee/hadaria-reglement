@@ -1,0 +1,58 @@
+:root,
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #322d50;
+  --md-primary-fg-color--light: #4a4375;
+  --md-primary-fg-color--dark:  #1e1a30;
+  --md-accent-fg-color:         #7c6fe0;
+  --md-default-bg-color:        #1a1726;
+  --md-default-bg-color--light: #221e35;
+  --md-default-bg-color--lighter: #2a2540;
+  --md-default-fg-color:        #e8e6f0;
+  --md-default-fg-color--light: #b0adc8;
+  --md-typeset-a-color:         #9b8ff0;
+  --md-admonition-fg-color:     #e8e6f0;
+}
+
+/* Header */
+.md-header {
+  background-color: #1e1a30;
+  border-bottom: 1px solid #322d50;
+}
+
+/* Sidebar */
+.md-sidebar {
+  background-color: #1a1726;
+}
+
+/* Nav active item */
+.md-nav__item--active > .md-nav__link {
+  color: #9b8ff0 !important;
+  font-weight: 700;
+}
+
+/* Tables */
+.md-typeset table:not([class]) th {
+  background-color: #322d50;
+}
+
+/* Admonitions danger */
+.md-typeset .admonition.danger,
+.md-typeset details.danger {
+  border-color: #cf3d3d;
+}
+
+/* Admonitions info */
+.md-typeset .admonition.info,
+.md-typeset details.info {
+  border-color: #7c6fe0;
+}
+
+/* Footer */
+.md-footer {
+  background-color: #1e1a30;
+}
+
+/* Search bar */
+.md-search__form {
+  background-color: #2a2540;
+}
