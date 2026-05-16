@@ -1,4 +1,3 @@
-
 # Wiki Hadaria
 
 Bienvenue sur le wiki officiel du serveur **Hadaria** !
