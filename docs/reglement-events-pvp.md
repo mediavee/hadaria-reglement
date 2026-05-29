@@ -59,7 +59,7 @@ Le crossteam est également interdit lors de **tous les événements PvP**, y co
 
 ## 5. Pénalités ⚜️
 
-| Infraction | Pénalité |
+| Infractions | Pénalités |
 |---|---|
 | Crossteam avéré | -15% des points de classement |
 | Focus / Hard focus | -20% des points de classement |
