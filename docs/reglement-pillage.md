@@ -4,52 +4,32 @@
 
 ---
 
-## 1. Triche et Bugs 🔎
+## 💥 Canons
 
-- Toute forme de **triche** (ex. exploit de bugs, crash-co, void, bedrock, etc.) est **strictement interdite**.
-- Les **complices** de tels actes seront également sanctionnés.
-
----
-
-## 2. Bugs et Exploits ⚠️
-
-- L'utilisation de **bugs de connexion** (usebug, freezemc...) pour obtenir un avantage en jeu entraîne un **bannissement immédiat**.
-- Tout **bug ou glitch** contournant les mécaniques normales du jeu est **interdit** (pillage par usebug pearl, tp, /back...).
-- Toute utilisation de **piston infini ou simple** est formellement interdite pour piller (machines volantes incluses).
-
-### 2.1 – Exemples 📝
-
-- ✅ **Autorisé** : Faire exploser de l'obsidienne **non protégée** par de l'eau à l'aide de creepers.
-- ❌ **Interdit** : Utiliser des creepers **enfermés dans un bloc** pour détruire de l'obsidienne protégée.
+Tout type de **canons** réalisables sur Hadaria est autorisé.
 
 ---
 
-## 3. Usebugs en Raid 🏴‍☠️
+## 🏴‍☠️ Usebugs en Raid
 
-**Autorisé :**
+Tout les uses bug sont autorisés quand vous êtes rentré dans la base.
 
-- Utiliser des **creepers** pour ouvrir des coffres et des droppeurs lors d'un raid (preuve vidéo fortement conseillée).
-- Employer des bugs pour **passer les étages** d'une base.
+**Sauf :**
+- Mettre du sable dans une zone non prévue à cet effet (ex. warzone en rtp) pour s'aider en pillage.
+- Employer des usebugs creepers pour détruire des spawners.
+- Utiliser des creepers enfermés dans un bloc pour détruire de l'obsidienne protégée.
 
-**Interdit :**
-
-- Employer des **usebugs creepers** pour détruire des spawners.
-- Mettre du **sable** dans une zone non prévue à cet effet (ex. warzone en rtp) pour s'aider en pillage.
-
----
-
-## 4. Nuisances Volontaires 🔇
-
-**Interdictions :**
-
-- Remplir **volontairement l'inventaire** d'un autre joueur.
-- Provoquer des **nuisances sonores répétées** (ex. spam de bruits d'enclume).
-
-De tels comportements entraîneront des **sanctions sévères**.
+Si vous n'êtes pas dans la base, il est interdit de use bug
 
 ---
 
-## 5. Block Claim 🚩
+## ⚠️ Pillage de base
+
+Il faut impérativement un trou dans la base pour pouvoir rentrer dans une base (preuve vidéo fortement conseillée).
+
+---
+
+## 🚩 Block Claim
 
 - Il est **interdit** de bloquer une faction en **revendiquant ses blocks claims** sans **intention active** de les utiliser.
 - Après avoir revendiqué, la faction attaquante dispose de **48h** pour **exploiter** ce claim. Passé ce délai, si la faction attaquée demande la restitution et juge le claim **inactif**, il doit être libéré **immédiatement**.
@@ -58,29 +38,11 @@ De tels comportements entraîneront des **sanctions sévères**.
 
 ---
 
-## 6. Canons 💥
+## 🔎 Triche et Bugs
 
-**Canons interdits :**
-
-- UFusion Cannons
-- Worms
-- Roof
-- Alien Probe
-- Phase Canons
-- Corner Canons
-- TNT Arrays
-- L Stackers
-- PushNuke
-- Tout canon qui tire ou explose en Y : 255.0 ou au-dessus
-
-Tous les autres types de canons sont autorisés (OSRB, Nuke, Anti Patch, Ap webbust, etc.).
-
-**Canons atypiques :** Les canons atypiques, tels que le lefty, sont autorisés.
-
-**Respect des règles :** Toute utilisation de canons interdits ou contournant les règles peut entraîner des sanctions allant des pénalités en jeu à des bannissements temporaires, selon la gravité de l'infraction.
-
-!!! info
-    En cas de doute sur un canon, contactez-nous via le support sur Discord : [discord.gg/hadaria](https://discord.gg/hadaria)
+- Toute forme de **triche** (ex. exploit de bugs, crash-co, void, bedrock, etc.) est **strictement interdite**.
+- Les **complices** de tels actes seront également sanctionnés.
+- Toute utilisation de **piston infini ou simple** pour retirer de l'eau ou autre est formellement interdite pour piller (machines volantes incluses).
 
 ---
 
