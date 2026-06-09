@@ -15,7 +15,7 @@
 
 - L'utilisation de **bugs de connexion** (usebug, freezemc...) pour obtenir un avantage en jeu entraîne un **bannissement immédiat**.
 - Tout **bug ou glitch** contournant les mécaniques normales du jeu est **interdit** (pillage par usebug pearl, tp, /back...).
-- Toute utilisation de **piston infini ou simple** pour retirer de l'eau ou autre est formellement interdite pour piller (machines volantes incluses).
+- Toute utilisation de **piston infini ou simple** est formellement interdite pour piller (machines volantes incluses).
 
 ### 2.1 – Exemples 📝
 
