@@ -2,84 +2,101 @@
 
 ---
 
-## 1. Prêt de joueurs ⛔
+## 🧍‍♂️ Identité Unique (Anti-Split)
 
-Le prêt de joueur est **strictement interdit**. Seul le système d'**open-invites** est autorisé. En cas d'infraction, une pénalité sera appliquée si le joueur retourne dans sa faction d'origine après un bref passage ailleurs.
+Vous pouvez jouer le classement PvP **uniquement avec un seul compte du début à la fin**. En cas de problème, contactez un staff.
+
+---
+
+## 🕹 Exploitation de Failles / Anti-jeu
+
+**L'exploitation de bugs est proscrite**. Obligation de signaler toute faille découverte au staff. Si cette faille permet un anti-jeu envers une autre faction ou si un anti-jeu notable est remarqué, une sanction sera immédiate.
+
+---
+
+## ⛔ Switch de faction
+
+Possible d'une faction vers une autre, mais le retour dans une faction déjà quittée au cours du mois actuel est interdit.
 
 **Exemple :**
-Un joueur quitte la Faction A pour faire des events avec la Faction B, puis revient immédiatement aux events de la Faction A. Cette situation est considérée comme une violation du règlement.
-
-**Exception :**
-Participer à des events PvP (incluant les outposts) avec une faction, puis revenir farmer dans une faction qui ne participe jamais aux événements PvP, est autorisé.
-
-**Attention :**
-Si une faction de farm est prise en train de faire du PvP, le joueur concerné sera sanctionné sans aucun débat possible.
+✅  Faction A → Faction B → Faction C  (autorisé)
+❌  Faction A → Faction B → Faction A  (interdit)
 
 !!! danger
     Il est interdit à un joueur de disputer un même événement avec deux factions distinctes (switch de faction).
 
 ---
 
-## 2. Replay Mod 🎥
+## 🎥 Replay Mod
 
-- L'utilisation du **ReplayMod** est **autorisée pour tous les joueurs UNIQUEMENT** durant les événements.
-- Le staff enregistrera systématiquement les événements afin de disposer d'une **trace officielle**.
-- Ces enregistrements pourront être mis à disposition sur demande explicite du **lead** ou du **co-lead** d'une faction.
+L'utilisation du **ReplayMod** est **autorisée pour tous les joueurs UNIQUEMENT** durant les événements.
 
 ---
 
-## 3. Focus 🎯
+## 🎯 Hard Focus
 
-Le **focus** est toléré tant qu'il n'apporte pas un avantage considérable à une autre faction. Cependant, le **hard focus** reste strictement interdit.
-
-**Définition de "hard focus" :**
-Il s'agit d'un ciblage systématique et prolongé d'une faction, dans le but direct ou indirect de favoriser une troisième faction. Ce comportement est contraire à l'esprit compétitif.
-
-**Conditions pour focus une faction** 🏆
-
-- Le focus est autorisé uniquement si la faction ciblée figure dans le **top 3** du KOTH / Totem géant.
-- Si la faction n'est pas dans le top 3, le focus est strictement interdit.
-- Le hard focus est interdit dans tous les cas.
-
-**Contournement :**
-Tout contournement (par un autre compte ou autre moyen) entraînera une exclusion des événements jusqu'à la fin du mois en cours.
+Cibler une faction précise uniquement pour **nuire à son classement** sans jouer l'objectif est interdit.
 
 ---
 
-## 4. Crossteam 🤝
+## 🤝 Crossteam
 
-Toute forme de **crossteam** entre deux factions ou plus est **strictement interdite**, y compris le **crossteam déguisé**, visant à s'unir contre une faction tierce.
+Toute forme de **crossteam entre deux factions ou plus est strictement interdite**, y compris le crossteam déguisé visant à s'unir contre une faction tierce.
 
 **Exemple :**
 Avoir des conversations entre deux factions (Discord, jeu ou vocal) avant un événement pour éviter de s'affronter et concentrer ses efforts sur une faction spécifique est **interdit**.
 
-Le crossteam est également interdit lors de **tous les événements PvP**, y compris les **outposts**.
+---
+
+## 💾 Enregistrement Totem
+
+Un **enregistrement vidéo** (REC) est obligatoire lorsque **vous cassez des blocs en Totem**.
+- Ce REC doit être conservé pendant 2h minimum après l'événement.
+- Tout modérateur ou membre du staff supérieur peut demander les POVs des joueurs lors d'un Totem.
+- Chaque leader peut demander jusqu'à 2 POVs de joueurs adverses jusqu'à 2h après un totem via un ticket Discord.
+- Le joueur concerné dispose de 24h pour envoyer sa POV dans le ticket.
+- La POV doit couvrir l'intégralité du cassage du Totem, du tick 0 jusqu'à la destruction de chaque bloc.
+- Aucune POV ne pourra être demandée lors d'un Totem joué sans concurrence.
 
 ---
 
-## 5. Pénalités ⚜️
+## 🎁 Largages & Outposts
+
+Aucune règle spécifique aux Largages et Outposts
+
+SAUF entre 18H et 22H où le **crossteam est interdit aux Outposts**.
+
+---
+
+## ❌ Triche
+
+Tout logiciel ou modification technique visant à **altérer le gameplay de base, à tricher ou à obtenir un avantage déloyal** est interdit.
+
+!!! danger
+    Recruter un joueur banni ou disqualifié au cours du mois actuel entraîne une pénalité pour la faction.
+
+---
+
+## ⚜️ Pénalités
 
 | Infractions | Pénalités |
 |---|---|
-| Crossteam avéré | -15% des points de classement |
-| Focus / Hard focus | -20% des points de classement |
-| Création / demande d'une faction pour en focus une autre | -30% des points de classement |
-| Prêt de joueur | -20% des points de classement |
-| Recrutement d'anciens joueurs bannis sous DC | -30% des points de classement |
-| Recrutement d'un joueur disqualifié | -20% des points de classement |
+| Identité Unique | Bannissement IP du joueur pendant 2 jours et -15% des points de classement |
+| Exploitation de Failles / anti jeu | Sanction variable en fonction de la gravité des faits |
+| Switch de faction | 1 avertissement puis perte de 15% des points total de la faction |
+| Hard focus | Perte de 15% des points total de la faction + ban 1j des joueurs impliqués |
+| Crossteam avéré | Perte de 15% des points de CHAQUE faction impliquée + ban 1j des joueurs impliqués |
+| Mods et Clients Interdits | 1 avertissement puis perte de 10% des points total de la faction |
 | Joueur banni pour triche (même hors évent) | -30% des points de classement |
-
-**Sanctions personnelles :**
-
-- 1ère sanction : Interdiction d'event de 2 jours
-- 2ème sanction (récidive) : Interdiction d'event de 5 jours
-- 3ème sanction (nouvelle récidive) : Interdiction d'event jusqu'à la fin du mois
+| Recrutement d'anciens joueurs bannis sous DC | -30% des points de classement |
+| Recrutement d'un joueur disqualifié | -15% des points de classement |
 
 **Disqualification de la faction :**
 
-- Après 3 pénalités (hors triche)
-- Après 2 joueurs bannis (triche)
-- Après 3 sanctions au total (hors triche & triche)
+- Après 5 pénalités (hors triche)
+- Après 3 joueurs bannis (triche)
+- Après 5 sanctions au total (hors triche & triche)
+
 
 !!! danger
     Nous prenons la responsabilité de sanctionner une faction si elle ne respecte pas le règlement ou tente d'en abuser d'une quelconque manière.
