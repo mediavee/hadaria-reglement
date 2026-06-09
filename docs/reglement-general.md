@@ -45,12 +45,14 @@ Votre **skin** doit être correct. Les skins nus, insultants, provocants ou disc
 
 Chaque joueur a droit à un compte principal et un double compte, qui doit être utilisé uniquement pour le serveur d'investissement ou pour rester AFK devant des spawners. Le double compte doit respecter les règles suivantes :
 
-- Le joueur ne doit pas faire partie d'aucune faction.
-- Le joueur ne doit pas farmer ou participer au classement factions.
-- Le joueur ne doit pas stocker des objets ou de l'argent.
-- Le joueur ne doit pas réaliser des quêtes plusieurs fois.
-- Le joueur ne doit pas faciliter des comportements jugés abusifs.
+- Le double compte ne doit pas faire partie d'une faction.
+- Le double compte ne doit pas farmer / participer au classement factions / mise à jour temporaire.
+- Le double compte ne doit pas réaliser de quêtes.
+- Le double compte ne doit pas faciliter des comportements jugés abusifs.
 - Le double compte ne doit pas être utilisé pour contourner une sanction.
+- Le double compte est limité au grade empereur maximum.
+- Le double compte peut être utilisé pour stocker des items dans son inventaire / enderchest.
+- Le double compte ne peut pas être utilisé lors d'un pillage.
 - Le joueur ne doit pas utiliser son double compte dans une base.
 
 !!! danger
@@ -79,9 +81,18 @@ Chaque joueur a droit à un compte principal et un double compte, qui doit être
 
 **Arnaque et TPKill** : Les arnaques et le TPKill sont autorisés, mais le spam et l'incitation à ces pratiques sont prohibés. Les arnaques abusives peuvent être sanctionnées.
 
-**Anti-jeux** : Les comportements nuisibles (ex : pièges, portail du Nether, couper le fly d'un joueur) peuvent entraîner un bannissement temporaire. Un ban pouvant aller jusqu'à 1 mois sera donné en cas d'anti-jeu abusé/répété.
+**Anti-jeu** : 
+- Les comportements nuisibles : pièges, portail du Nether, ...
+- Bugs de connexion : Usebug, freezemc, crash coo pour se sortir d'une situation difficile.
+- Prohibition du cheat : Aveux de cheat IG comme sur discord
+- Coffre de stockage : Bloquer des mobs avec des coffres incassable pour empêcher un pillage de mob
+- Piston : Toute utilisation de piston infini ou simple est formellement interdite (machines volantes incluses).
+- Sanction Anti-jeu : En fonction de la gravité ou de la répétition d'anti-jeu, un ban plus sévère peut être appliqué.
 
 **Champignons d'Eau et de Lave** : Leur utilisation est autorisée pour le pillage et les guerres de factions, sous réserve de ne pas provoquer de lag. En cas de lag, ils doivent être retirés.
+
+**Freeze MC**
+L'utilisation du freeze mc est interdite. Elle n'entraine cependant pas un ban systématique. Le ban a lieu uniquement quand le joueur arrive à partir de la situation dans laquelle il est. Tant que le joueur ne l'utilise pas pour s'avantager, aucune sanction ne sera mise.
 
 ---
 
@@ -116,11 +127,21 @@ Toute tentative de transaction impliquant des biens réels (vente d'objets contr
 !!! info
     Par question d'esthétique de la WarZone, il vous est interdit de faire des champignons de lave/eau dans votre AP et d'avoir un AP démoli, disgracieux ou à l'abandon.
 
-    **En conséquence**, l'équipe de modération se réserve le droit en cas de non-respect de l'une de ces consignes de vous avertir ou de vous unclaim votre AP.
+    En conséquence, l'équipe de modération se réserve le droit en cas de non-respect de l'une de ces consignes de vous avertir ou de vous unclaim votre AP.
 
 ---
 
-## 7. Mods et Clients de jeu 📌
+## 7. Médias 🎥
+
+Publicités médias : Les joueurs sans rank médias peuvent pub leur live si et seulement si, ils sont en live sur hadaria.
+
+Pour obtenir les grades médias, vous devez remplir les conditions requises pour obtenir le grade _(commande /yt en jeu)_ et effectuer votre demande en ouvrant un ticket sur le Discord.
+
+En cas de sanction, votre grade vous sera retiré.
+
+---
+
+## 8. Mods et Clients de jeu 📌
 
 L'utilisation de **logiciels de triche** est **strictement interdite** sur nos plateformes. Toute technique procurant un avantage déloyal ou modifiant le gameplay normal sera sanctionnée.
 
@@ -128,34 +149,45 @@ L'utilisation de **logiciels de triche** est **strictement interdite** sur nos p
 
 ### Règles sur le debounce time 🖱️
 
-- **Autoclick** : Strictement interdit.
-- **Debounce time externe** : Aucun réglage du debounce time ne doit être modifié par des moyens externes. La configuration de base de la souris doit être respectée.
-- **Souris à debounce intégré** : Autorisées à condition que le réglage de base n'ait subi aucune modification.
+- **Autoclick** : Strictement interdit en PvP, autorisé pour farm que ce soit un autoclick basique ou un autoclick Alt Tab.
+- **Debounce time** : Autorisé.
 
-### ✅ Mods et launchers autorisés (si non modifiés)
+### ✅ Launchers autorisés (si non modifiés)
 
-- Améliorations esthétiques *(CPS Mod, KeyStrokesMod, Armor Status, etc.)*
-- Amélioration des performances/graphismes *(Optifine, Sodium, etc.)*
+Autorisé pour PvP :
+- Feather
+- Badlion
+- Lunar
+- LabyMod
+- AZLauncher _(sauf le TE)_
+- TLauncher
+- Launcher officiel
+
+Autorisé pour Farm et Pillage :
+- Cristal
+- Orbit
+- CheatBreaker
+- Feather
+- Badlion
+- Lunar
+- LabyMod
+- AZLauncher _(sauf le TE)_
+- TLauncher
+- Launcher officiel
+
+### ✅ Mods autorisés : 
+- Améliorations esthétiques (CPS Mod, KeyStrokesMod, Armor Status, etc.)
+- Amélioration des performances/graphismes (Optifine, Sodium, etc.)
 - Toggle Sprint & Toggle Sneak
 - Minimap
-- Launcher officiel
-- LabyMod
-- Badlion Client
-- AZLauncher
-- Lunar Client
-- Feather Client
-- Orbit Client *(en pillage uniquement)*
+- BotVote
+- Schematica _(sans printer et uniquement pour build : copier une base, ..., est interdit)_
 
 ### ❌ Mods et clients interdits
 
-- Téléchargement de map, Printer, Auto-build *(Schematica, WorldDownloader)*
-- Clic automatique *(AutoClick, RapidFire, Macro)*
-- Mod donnant un avantage non négligeable en combat *(Auto refill, AutoPot)*
-- Tout ce qui peut s'apparenter à de la triche *(XRay, Reach, AntiKB, KillAura, Aimbot, SpeedHack, etc.)*
-- Les macros, doubles clicks et autres
-- MineBuilders
-- Le TE de AzLauncher
-- Replay Mod
+Tout ce qui n'est pas dans ces listes est, par conséquent, interdit
+
+Si vous utilisez un mod interdit ou un lanceur modifié ou interdit, aucune vérification supplémentaire n'est nécessaire pour vous bannir.
 
 !!! info
     En cas de doute, contactez-nous via le support sur Discord : [discord.gg/hadaria](https://discord.gg/hadaria)
@@ -170,7 +202,7 @@ Se déconnecter pendant le processus sera également considéré comme un refus,
 
 ---
 
-## 8. Politique de remboursement 💸
+## 9. Politique de remboursement 💸
 
 Les remboursements sur nos serveurs sont encadrés et possibles uniquement en cas de bug du serveur ou d'autres exceptions spécifiques. Vous êtes entièrement responsable de votre compte. En cas de hack ou de perte de mot de passe, nous ne garantissons pas la sécurité de votre compte et aucun remboursement ne sera effectué.
 
@@ -190,7 +222,7 @@ Les demandes de remboursement doivent être soumises uniquement via un ticket Di
 
 ---
 
-## 9. Politique de transfert 🚁
+## 10. Politique de transfert 🚁
 
 Les transferts entre comptes sont strictement interdits, sauf pour les transferts d'un compte non officiel (crack) vers un compte officiel (premium).
 
@@ -198,12 +230,22 @@ Les demandes de transfert doivent être soumises uniquement via un ticket Discor
 
 Des demandes de transfert pour des cas exceptionnels peuvent être faites, mais seuls les administrateurs ont le droit de les accepter. En cas d'abus de demandes exceptionnelles ou de tentatives d'escroquerie, le staff se réserve le droit de bannir vos deux comptes du serveur.
 
+Les transferts de compte sont possibles sur le serveur mais avec quelques subtilités :
+- Lorsque le serveur est un event temporaire les transferts ne sont pas possible (type mise à jour avec pass et quêtes temporaire).
+   - Malgré cela, si votre compte se fait hack nous acceptons tout de même à faire votre transfert.
+- Les homes ne seront JAMAIS transférées.
+- Vos stats de compte (heures de jeu, victoires coinflip, ...) ne seront pas non plus transférées.
+    - En conséquence, le /lvl ne sera pas non plus transféré.
+- Vos votecoins ne seront pas transférés.
+- Votre expérience ingame ne sera pas transféré.
+
 ---
 
-## 10. Divers 📰
+## 11. Divers 📰
 
 Comme vu précédemment, contrairement aux autres membres du staff, seuls les **Administrateurs** ne sont pas forcés de suivre les sanctions prédéfinies.
 
 De plus, les **Administrateurs** se réservent le droit de bannir tout comportement qu'ils jugent néfaste à la communauté, aux membres du staff ou même au serveur.
 
 Les **Administrateurs** s'efforcent à toujours vous offrir un plaisir de jeu croissant. De ce fait, toute décision prise par les Administrateurs ayant effectué un blacklist est incontestable.
+
