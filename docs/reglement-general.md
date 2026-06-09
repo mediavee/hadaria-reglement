@@ -54,6 +54,7 @@ Chaque joueur a droit à un compte principal et un double compte, qui doit être
 - Le double compte peut être utilisé pour stocker des items dans son inventaire / enderchest.
 - Le double compte ne peut pas être utilisé lors d'un pillage.
 - Le joueur ne doit pas utiliser son double compte dans une base.
+- Utiliser le compte d'un autre joueur est interdit.
 
 !!! danger
     Dans le cas où vous êtes plusieurs personnes à jouer sur la même adresse IP, il vous est demandé de venir le signaler via le support afin de procéder à une vérification orale auprès d'un membre du staff : [discord.gg/hadaria](https://discord.gg/hadaria)
