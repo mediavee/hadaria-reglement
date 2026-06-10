@@ -43,7 +43,7 @@ Votre **pseudo** doit être correct, les pseudos insultants, provocants ou discr
 
 Votre **skin** doit être correct. Les skins nus, insultants, provocants ou discriminatoires envers quelqu'un, une idéologie ou une religion sont totalement prohibés.
 
-Chaque joueur a droit à un compte principal et un double compte, qui doit être utilisé uniquement pour le serveur d'investissement ou pour rester AFK devant des spawners. Le double compte doit respecter les règles suivantes :
+Chaque joueur a droit à un compte principal et un double compte, qui doit être utilisé notamment pour le serveur d'investissement ou pour rester AFK devant des spawners. Le double compte doit respecter les règles suivantes :
 
 - Le double compte ne doit pas faire partie d'une faction.
 - Le double compte ne doit pas farmer / participer au classement factions / mise à jour temporaire.
@@ -53,7 +53,7 @@ Chaque joueur a droit à un compte principal et un double compte, qui doit être
 - Le double compte est limité au grade empereur maximum.
 - Le double compte peut être utilisé pour stocker des items dans son inventaire / enderchest.
 - Le double compte ne peut pas être utilisé lors d'un pillage.
-- Le joueur ne doit pas utiliser son double compte dans une base SAUF pour afk.
+- Le joueur ne doit pas utiliser son double compte dans une base.
 - Utiliser le compte d'un autre joueur est interdit.
 
 !!! danger
