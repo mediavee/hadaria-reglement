@@ -20,8 +20,8 @@ Possible d'une faction vers une autre, mais le retour dans une faction déjà qu
 
 **Exemple :**
 
-✅  Faction A → Faction B → Faction C  (autorisé)
-❌  Faction A → Faction B → Faction A  (interdit)
+- ✅  Faction A → Faction B → Faction C  (autorisé)
+- ❌  Faction A → Faction B → Faction A  (interdit)
 
 !!! danger
     Il est interdit à un joueur de disputer un même événement avec deux factions distinctes (switch de faction).
