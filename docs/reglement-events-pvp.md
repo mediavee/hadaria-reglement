@@ -52,6 +52,7 @@ Avoir des conversations entre deux factions (Discord, jeu ou vocal) avant un év
 ## 💾 Enregistrement Totem
 
 Un **enregistrement vidéo** (REC) est obligatoire lorsque **vous cassez des blocs en Totem**.
+
 - Ce REC doit être conservé pendant 2h minimum après l'événement.
 - Tout modérateur ou membre du staff supérieur peut demander les POVs des joueurs lors d'un Totem.
 - Chaque leader peut demander jusqu'à 2 POVs de joueurs adverses jusqu'à 2h après un totem via un ticket Discord.
