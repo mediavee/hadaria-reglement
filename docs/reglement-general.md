@@ -150,7 +150,7 @@ L'utilisation de **logiciels de triche** est **strictement interdite** sur nos p
 
 ### Règles sur le debounce time 🖱️
 
-- **Autoclick** : Strictement interdit en PvP, autorisé pour farm que ce soit un autoclick basique ou un autoclick Alt Tab.
+- **Autoclick** : Strictement interdit en PvP, autorisé pour farm que ce soit un autoclick basique / un autoclick Alt Tab / un autoclick entités only.
 - **Debounce time** : Autorisé.
 
 ### ✅ Launchers autorisés (si non modifiés)
