@@ -83,6 +83,7 @@ Chaque joueur a droit à un compte principal et un double compte, qui doit être
 **Arnaque et TPKill** : Les arnaques et le TPKill sont autorisés, mais le spam et l'incitation à ces pratiques sont prohibés. Les arnaques abusives peuvent être sanctionnées.
 
 **Anti-jeu** : 
+
 - Les comportements nuisibles : pièges, portail du Nether, ...
 - Bugs de connexion : Usebug, freezemc, crash coo pour se sortir d'une situation difficile.
 - Prohibition du cheat : Aveux de cheat IG comme sur discord
@@ -156,6 +157,7 @@ L'utilisation de **logiciels de triche** est **strictement interdite** sur nos p
 ### ✅ Launchers autorisés (si non modifiés)
 
 Autorisé pour PvP :
+
 - Feather
 - Badlion
 - Lunar
@@ -165,6 +167,7 @@ Autorisé pour PvP :
 - Launcher officiel
 
 Autorisé pour Farm et Pillage :
+
 - Cristal
 - Orbit
 - CheatBreaker
@@ -232,6 +235,7 @@ Les demandes de transfert doivent être soumises uniquement via un ticket Discor
 Des demandes de transfert pour des cas exceptionnels peuvent être faites, mais seuls les administrateurs ont le droit de les accepter. En cas d'abus de demandes exceptionnelles ou de tentatives d'escroquerie, le staff se réserve le droit de bannir vos deux comptes du serveur.
 
 Les transferts de compte sont possibles sur le serveur mais avec quelques subtilités :
+
 - Lorsque le serveur est un event temporaire les transferts ne sont pas possible (type mise à jour avec pass et quêtes temporaire).
    - Malgré cela, si votre compte se fait hack nous acceptons tout de même à faire votre transfert.
 - Les homes ne seront JAMAIS transférées.
