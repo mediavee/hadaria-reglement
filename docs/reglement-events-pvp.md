@@ -19,6 +19,7 @@ Vous pouvez jouer le classement PvP **uniquement avec un seul compte du début �
 Possible d'une faction vers une autre, mais le retour dans une faction déjà quittée au cours du mois actuel est interdit.
 
 **Exemple :**
+
 ✅  Faction A → Faction B → Faction C  (autorisé)
 ❌  Faction A → Faction B → Faction A  (interdit)
 
