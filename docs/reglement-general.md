@@ -207,7 +207,7 @@ Cependant, si un modérateur soupçonne un comportement suspect pouvant indiquer
 - Se déconnecter pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 - Supprimer sa corbeille pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 - Désactiver ses services est considéré comme une entrave au processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
-- Si le scan Echo ne fonctionne pas, cela est considéré comme une entrave au processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
+- Si le scan Echo ne fonctionne pas, cela est considéré comme une entrave au processus et sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 
 ---
 
