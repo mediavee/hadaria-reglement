@@ -199,13 +199,15 @@ Si vous utilisez un mod interdit ou un lanceur modifié ou interdit, aucune vér
 
 Aucun joueur ne peut vous demander de vérifier votre ordinateur.
 
-Cependant, si un modérateur soupçonne un comportement suspect pouvant indiquer de la triche, il a le droit de vérifier votre launcher de jeu à l'aide du logiciel Echo. Il est en droit de vous faire passer une vérification manuelle. Vous êtes libre d'accepter ou refuser cette vérification, cependant la refuser pourra entraîner un bannissement.
+Cependant, si un modérateur soupçonne un comportement suspect pouvant indiquer de la triche, il a le droit de vérifier votre launcher de jeu à l'aide du logiciel Echo. Il est en droit de vous faire passer une vérification manuelle.
 
-Se déconnecter pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
+### Refus de vérification :
 
-Supprimer sa corbeille pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
-
-Désactiver ses services est considéré comme une entrave au processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
+- Vous êtes libre d'accepter ou refuser cette vérification, cependant la refuser pourra entraîner un bannissement.
+- Se déconnecter pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
+- Supprimer sa corbeille pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
+- Désactiver ses services est considéré comme une entrave au processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
+- Si le scan Echo ne fonctionne pas, cela est considéré comme une entrave au processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 
 ---
 
