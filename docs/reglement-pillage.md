@@ -15,6 +15,7 @@ Tout type de **canons** réalisables sur Hadaria est autorisé.
 Tout les uses bug sont autorisés quand vous êtes rentré dans la base.
 
 **Sauf :**
+
 - Mettre du sable dans une zone non prévue à cet effet (ex. warzone en rtp) pour s'aider en pillage.
 - Employer des usebugs creepers pour détruire des spawners.
 - Utiliser des creepers enfermés dans un bloc pour détruire de l'obsidienne protégée.
