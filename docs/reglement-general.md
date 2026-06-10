@@ -153,6 +153,8 @@ L'utilisation de **logiciels de triche** est **strictement interdite** sur nos p
 - **Autoclick** : Strictement interdit en PvP, autorisé pour farm que ce soit un autoclick basique / un autoclick Alt Tab / un autoclick entités only.
 - **Debounce time** : Autorisé.
 
+Si votre autoclick pour farm est encore actif sur votre launcheur alors que vous êtes en PvP, aucune vérification supplémentaire n'est nécessaire pour vous bannir.
+
 ### ✅ Launchers autorisés (si non modifiés)
 
 Autorisé pour PvP :
@@ -208,7 +210,6 @@ Cependant, si un modérateur soupçonne un comportement suspect pouvant indiquer
 - Supprimer sa corbeille pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 - Désactiver ses services est considéré comme une entrave au processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 - Si le scan Echo ne fonctionne pas, cela est considéré comme une entrave au processus et sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
-- Si votre autoclcik pour farm est encore actif sur votre launcheur alors que vous êtes en PvP, aucune vérification supplémentaire n'est nécessaire pour vous bannir.
 
 ---
 
