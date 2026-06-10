@@ -242,7 +242,7 @@ Les transferts de compte sont possibles sur le serveur mais avec quelques subtil
 - Vos stats de compte (heures de jeu, victoires coinflip, ...) ne seront pas non plus transférées.
     - En conséquence, le /lvl ne sera pas non plus transféré.
 - Vos votecoins ne seront pas transférés.
-- Votre expérience ingame ne sera pas transféré.
+- Votre expérience ingame ne sera pas transférée.
 
 ---
 
