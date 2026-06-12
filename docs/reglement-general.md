@@ -243,8 +243,7 @@ Des demandes de transfert pour des cas exceptionnels peuvent être faites, mais 
 
 Les transferts de compte sont possibles sur le serveur mais avec quelques subtilités :
 
-- Lorsque le serveur est un event temporaire les transferts ne sont pas possible (type mise à jour avec pass et quêtes temporaire).
-   - Malgré cela, si votre compte se fait hack nous acceptons tout de même à faire votre transfert.
+- Lorsque le serveur est un event temporaire les transferts des statistiques de celui-ci ne sont pas possible (type mise à jour avec pass et quêtes temporaire).
 - Les homes ne seront JAMAIS transférées.
 - Vos stats de compte (heures de jeu, victoires coinflip, ...) ne seront pas non plus transférées.
     - En conséquence, le /lvl ne sera pas non plus transféré.
