@@ -28,6 +28,8 @@ L'usage de la commande `/nick` doit respecter les règles ici présentes.
 
 Les insultes dans le chat public ne sont pas sanctionnées par des screenshots, elles seront seulement prises en compte en cas de problème majeur (divulgation d'information personnelle, harcèlement, etc.).
 
+L'utilisation d'autres langues que le français ou l'anglais est interdite.
+
 Enfin, toute forme de publicité est interdite sur nos plateformes, sauf pour les vidéos créées sur Hadaria par des youtubeurs ayant le grade approprié, et pour les Discord de factions jouant sur nos serveurs.
 
 !!! danger
@@ -210,6 +212,7 @@ Cependant, si un modérateur soupçonne un comportement suspect pouvant indiquer
 - Supprimer sa corbeille pendant le processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 - Désactiver ses services est considéré comme une entrave au processus sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 - Si le scan Echo ne fonctionne pas, cela est considéré comme une entrave au processus et sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
+- Si un périphérique usb est débranché pendant le processus, cela est considéré comme une entrave au processus et sera également considéré comme un refus, rendant impossible toute vérification après un bannissement pour ce motif.
 
 ---
 
