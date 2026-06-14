@@ -82,6 +82,7 @@ Cela inclut toute action visant à éviter ou désactiver ces mesures de sécuri
 | Exploitation de Failles / anti jeu | Sanction variable en fonction de la gravité des faits |
 | Couper le fly | Sanction variable en fonction de la gravité des faits |
 | Anti-AFK et automatisation | Perte de 30% des rubis de la faction + bannissement 90j du joueur |
+| Limite de Farm | perte des rubis Farm des 2 comptes x2 pour la faction + ban Cheat non PvP |
 | Joueur via accès à distance | perte des rubis Farm des 2 comptes x2 pour la faction + ban Cheat non PvP |
 | Mods et Clients Interdits | Perte des rubis Farm du joueur x2 pour la faction + ban mods interdits |
 | Joueur banni pour triche | Perte des rubis Farm du joueur x2 pour la faction + ban cheat non PvP |
