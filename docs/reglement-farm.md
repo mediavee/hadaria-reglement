@@ -4,7 +4,7 @@
 
 ## 🧍‍♂️ Identité Unique (Anti-Split)
 
-Vous pouvez jouer le classement PvP **uniquement avec un seul compte du début à la fin**. En cas de problème, contactez un staff.
+Vous pouvez jouer le classement Farm **uniquement avec un seul compte du début à la fin**. En cas de problème, contactez un staff.
 
 ---
 
