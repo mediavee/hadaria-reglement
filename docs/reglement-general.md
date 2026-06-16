@@ -168,11 +168,11 @@ Autorisé pour PvP :
 - AZLauncher _(sauf le TE)_
 - TLauncher
 - Launcher officiel
+- Orbit
 
 Autorisé pour Farm et Pillage :
 
 - Cristal
-- Orbit
 - CheatBreaker
 - Feather
 - Badlion
