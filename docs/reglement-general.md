@@ -181,6 +181,7 @@ Autorisé pour Farm et Pillage :
 - AZLauncher _(sauf le TE)_
 - TLauncher
 - Launcher officiel
+- Launchers MultiMC & Prism launcher (aucun autre launcher du type est autorisé)
 
 ### ✅ Mods autorisés : 
 - Améliorations esthétiques (CPS Mod, KeyStrokesMod, Armor Status, etc.)
