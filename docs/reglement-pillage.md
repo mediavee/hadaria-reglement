@@ -43,7 +43,7 @@ Il faut impérativement un trou dans la base pour pouvoir rentrer dans une base 
 
 - Toute forme de **triche** (ex. exploit de bugs, crash-co, void, bedrock, etc.) est **strictement interdite**.
 - Les **complices** de tels actes seront également sanctionnés.
-- Toute utilisation de **piston infini ou simple** pour retirer de l'eau ou autre est formellement interdite pour piller (machines volantes incluses).
+- Toute utilisation de **piston infini ou simple** pour retirer de l'eau ou autre est formellement interdite pour piller (machines volantes incluses). Seule exception : pour piller un canon.
 
 ---
 
