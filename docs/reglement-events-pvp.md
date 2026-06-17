@@ -28,6 +28,14 @@ Possible d'une faction vers une autre, mais le retour dans une faction déjà qu
 
 ---
 
+## 🥇 Factions V1 uniquement
+
+Seule la faction principale (V1) est autorisée à participer aux événements PvP. Les factions secondaires (V2, V3, etc.) sont formellement interdites en event. 
+
+De même pour le fait de jouer le début du mois dans une faction et le reste dans une autre dans le but d'avoir 2 factions dans le top avec les mêmes joueurs / la même base de joueurs.
+
+---
+
 ## 🎥 Replay Mod
 
 L'utilisation du **ReplayMod** est **autorisée pour tous les joueurs UNIQUEMENT** durant les événements.
@@ -86,6 +94,7 @@ Tout logiciel ou modification technique visant à **altérer le gameplay de base
 | Identité Unique | Bannissement IP du joueur pendant 2 jours et -15% des points de classement |
 | Exploitation de Failles / anti jeu | Sanction variable en fonction de la gravité des faits |
 | Switch de faction | 1 avertissement puis perte de 15% des points total de la faction |
+| Faction V1 Uniquement | Disqualification de la V2 + -10% des points de classement de la V1 |
 | Hard focus | Perte de 15% des points total de la faction + ban 1j des joueurs impliqués |
 | Crossteam avéré | Perte de 15% des points de CHAQUE faction impliquée + ban 1j des joueurs impliqués |
 | Mods et Clients Interdits | 1 avertissement puis perte de 10% des points total de la faction |
