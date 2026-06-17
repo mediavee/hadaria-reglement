@@ -172,7 +172,8 @@ Autorisé pour PvP :
 
 Autorisé pour Farm et Pillage :
 
-- Cristal
+- Cristal _(uniquement pillage)_
+- Orbit _(uniquement pillage)_
 - CheatBreaker
 - Feather
 - Badlion
