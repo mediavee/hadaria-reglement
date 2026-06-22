@@ -190,7 +190,7 @@ Autorisé pour Farm et Pillage :
 - Toggle Sprint & Toggle Sneak
 - Minimap
 - BotVote
-- Schematica autorisé SAUF printer et pour les canons.
+- Schematica autorisé SAUF printer et pour les canons. Cela comprend aussi le potionnement du schematic qui est interdit pour les canons.
 
 ### ❌ Mods et clients interdits
 
