@@ -168,7 +168,6 @@ Autorisé pour PvP :
 - AZLauncher _(sauf le TE)_
 - TLauncher
 - Launcher officiel
-- Orbit
 
 Autorisé pour Farm et Pillage :
 
@@ -205,7 +204,7 @@ Si vous utilisez un mod interdit ou un lanceur modifié ou interdit, aucune vér
 
 Aucun joueur ne peut vous demander de vérifier votre ordinateur.
 
-Cependant, si un modérateur soupçonne un comportement suspect pouvant indiquer de la triche, il a le droit de vérifier votre launcher de jeu à l'aide du logiciel Echo. Il est en droit de vous faire passer une vérification manuelle.
+Cependant, si un modérateur soupçonne un comportement suspect pouvant indiquer de la triche, il a le droit de vérifier votre launcher de jeu à l'aide du logiciel Echo. Il est en droit de vous faire passer une vérification manuelle. L'ensemble des services windows doivent être activés.
 
 ### Refus de vérification :
 
