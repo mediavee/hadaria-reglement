@@ -9,7 +9,6 @@ Retrouvez ici l'ensemble des règlements qui encadrent le jeu sur nos plateforme
 ## 📋 Règlements
 
 - [**Règlement général**](reglement-general.md) — Les règles de base qui s'appliquent à tous les joueurs.
-- [**Règlement Évents PvP**](reglement-events-pvp.md) — Les règles spécifiques aux événements PvP et aux outposts.
 - [**Règlement Farm**](reglement-farm.md) — Les règles relatives aux tournois et au farm.
 - [**Règlement Pillage**](reglement-pillage.md) — Les règles encadrant les raids, canons et exploits.
 
