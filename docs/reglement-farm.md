@@ -41,12 +41,12 @@ Aucun outil, macro, mod ou technique permettant de dépasser artificiellement le
 
 ---
 
-## 🖥 Jouer via accès à distance
+## 🖥 Jouer via accès à distance & captcha
 
 **Interdiction de jouer via accès distant (uniquement sur PC)**
 
-Pour garantir l'équité entre tous, le jeu via **accès à distance est interdit**.
-Le farm doit être effectué exclusivement depuis votre propre PC, en session locale.
+Pour garantir l'équité entre tous, le jeu via **accès à distance est interdit**. Le farm doit être effectué exclusivement depuis votre propre PC, en session locale.
+De même, les alertes captchas / bypass captchas / toutes manières de contourner les captchas est interdit.
 
 ---
 
