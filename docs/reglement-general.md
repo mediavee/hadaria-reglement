@@ -55,6 +55,7 @@ Chaque joueur a droit à un compte principal et un double compte, qui doit être
 - Le double compte est limité au grade empereur maximum.
 - Le double compte peut être utilisé pour stocker des items dans son inventaire / enderchest.
 - Le double compte ne peut pas être utilisé lors d'un pillage.
+- Le double compte ne peut pas être utilisé pour être joueur (exemple : faire les tournois pvp).
 - Le joueur ne doit pas utiliser son double compte dans une base.
 
 !!! danger
