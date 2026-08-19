@@ -49,6 +49,7 @@ Chaque joueur a droit à un compte principal et un double compte, qui doit être
 
 - Le double compte ne doit pas faire partie d'une faction.
 - Le double compte ne doit pas farmer / participer au classement factions / mise à jour temporaire.
+- Le double compte ne doit pas pvp dans un monde event avec du pvp (ile volante en warzone comprise).
 - Le double compte ne doit pas réaliser de quêtes.
 - Le double compte ne doit pas faciliter des comportements jugés abusifs.
 - Le double compte ne doit pas être utilisé pour contourner une sanction.
