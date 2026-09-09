@@ -9,15 +9,13 @@ theme:
   logo: https://www.hadaria.fr/_next/image?url=%2Flogo.webp&w=96&q=75
   favicon: https://www.hadaria.fr/_next/image?url=%2Flogo.webp&w=32&q=75
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: custom
       accent: custom
       toggle:
         icon: material/weather-night
         name: Passer en mode sombre
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: custom
       accent: custom
       toggle:

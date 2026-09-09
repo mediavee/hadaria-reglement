@@ -133,11 +133,19 @@
 /* ══════════════ CORPS ══════════════ */
 body, .md-main, .md-main__inner, .md-container { background-color: var(--had-bg); }
 
-.md-content { padding: 1.6rem 2.2rem 3rem; }
+/* Material plafonne toute la grille à 61rem : sur un écran large ça laisse une
+   colonne de texte étroite et un grand vide à droite. */
+.md-grid { max-width: 78rem; }
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar { width: 14rem; }
+}
+
+.md-content { padding: 1.6rem 3rem 3rem; }
 .md-content__inner { margin-bottom: 0; }
 
 .md-typeset {
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   line-height: 1.75;
 }
 
@@ -372,9 +380,15 @@ body, .md-main, .md-main__inner, .md-container { background-color: var(--had-bg)
 .md-typeset pre { box-shadow: none; }
 
 /* ══════════════ NAV PRÉCÉDENT / SUIVANT ══════════════ */
-.md-footer__inner {
-  background: var(--had-bg);
+/* Le fond va sur .md-footer, pas sur .md-grid : ce dernier est limité à 61rem
+   et laissait apparaître le fond sombre du thème de chaque côté. */
+.md-footer {
+  background-color: var(--had-bg);
   border-top: 1px solid var(--had-border);
+}
+.md-footer__inner {
+  background: transparent;
+  border-top: none;
   padding: 0.6rem 0;
   margin: 0 auto;
 }
@@ -415,9 +429,9 @@ body, .md-main, .md-main__inner, .md-container { background-color: var(--had-bg)
 .had-footer__inner {
   position: relative;
   z-index: 1;
-  max-width: 61rem;
+  max-width: 78rem;
   margin: 0 auto;
-  padding: 2.2rem 1.2rem 1.6rem;
+  padding: 2.2rem 3rem 1.6rem;
   font-size: 0.72rem;
 }
 .had-footer__grid {
