@@ -244,6 +244,10 @@ body, .md-main, .md-main__inner, .md-container { background-color: var(--had-bg)
 }
 .md-typeset a:hover { border-bottom-color: currentcolor; }
 
+/* Les fichiers ouvrent sur « # Titre » suivi d'un « --- » : le filet du H1 et
+   celui du hr faisaient double ligne. */
+.md-typeset h1 + hr { display: none; }
+
 /* Les filets « --- » entre sections : discrets, pas de double séparation */
 .md-typeset hr {
   border-bottom: 1px solid var(--had-border-lt);
