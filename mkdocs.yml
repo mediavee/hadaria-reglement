@@ -1,19 +1,31 @@
 site_name: Wiki Hadaria
 site_description: Règlement officiel du serveur Hadaria
-site_url: https://realvolgaar.github.io/hadaria-reglement/
+site_url: https://wiki.hadaria.fr/
 
 theme:
   name: material
+  custom_dir: overrides
   language: fr
   logo: https://www.hadaria.fr/_next/image?url=%2Flogo.webp&w=96&q=75
   favicon: https://www.hadaria.fr/_next/image?url=%2Flogo.webp&w=32&q=75
   palette:
-    scheme: default
-    primary: custom
-    accent: deep purple
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
   font:
-    text: Inter
-    code: Roboto Mono
+    text: Geist
+    code: Geist Mono
   features:
     - navigation.tabs
     - navigation.sections
@@ -52,18 +64,3 @@ markdown_extensions:
 plugins:
   - search:
       lang: fr
-
-extra:
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/hadaria
-      name: Discord Hadaria
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/Hadaria_FR
-      name: Twitter / X
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCOTxbQeaBbNpDNUKh4KtJsw
-      name: YouTube
-    - icon: fontawesome/brands/tiktok
-      link: https://www.tiktok.com/@hadaria_fr
-      name: TikTok
